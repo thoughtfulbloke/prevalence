@@ -1,145 +1,145 @@
 "DHB","Age","PercentAtLarge"
-"Auckland","0 to 9",0.194832018303714
-"Auckland","10 to 19",0.246969487608642
-"Auckland","20 to 29",0.25560306103775
-"Auckland","30 to 39",0.179312525205624
-"Auckland","40 to 49",0.22593362694284
-"Auckland","50 to 59",0.148070945569434
-"Auckland","60 to 69",0.175139174022674
-"Auckland","70+",0.164920538504568
-"Bay of Plenty","0 to 9",0.178031539466943
-"Bay of Plenty","10 to 19",0.264644957689569
-"Bay of Plenty","20 to 29",0.34850235566394
-"Bay of Plenty","30 to 39",0.242750558560575
-"Bay of Plenty","40 to 49",0.28613556841202
-"Bay of Plenty","50 to 59",0.244209707458645
-"Bay of Plenty","60 to 69",0.247652906138277
-"Bay of Plenty","70+",0.347516656342884
-"Canterbury/West Coast","0 to 9",0.301402314120438
-"Canterbury/West Coast","10 to 19",0.420330436483268
-"Canterbury/West Coast","20 to 29",0.493704697014996
-"Canterbury/West Coast","30 to 39",0.328904122433084
-"Canterbury/West Coast","40 to 49",0.288038000189737
-"Canterbury/West Coast","50 to 59",0.21619602442798
-"Canterbury/West Coast","60 to 69",0.210060094106036
-"Canterbury/West Coast","70+",0.204321769705584
-"Capital & Coast/Hutt","0 to 9",0.238581273427257
-"Capital & Coast/Hutt","10 to 19",0.296054563897227
-"Capital & Coast/Hutt","20 to 29",0.360174726715318
-"Capital & Coast/Hutt","30 to 39",0.253258714430671
-"Capital & Coast/Hutt","40 to 49",0.247240170369947
-"Capital & Coast/Hutt","50 to 59",0.207077474051287
-"Capital & Coast/Hutt","60 to 69",0.194030253833881
-"Capital & Coast/Hutt","70+",0.207938313649891
-"Counties Manukau","0 to 9",0.133975491805329
-"Counties Manukau","10 to 19",0.201510795023717
-"Counties Manukau","20 to 29",0.331072135638248
-"Counties Manukau","30 to 39",0.202851251165469
-"Counties Manukau","40 to 49",0.20278508740041
-"Counties Manukau","50 to 59",0.167936243090836
-"Counties Manukau","60 to 69",0.158859595688932
-"Counties Manukau","70+",0.193545636562858
-"Hawke's Bay","0 to 9",0.0897245333212375
-"Hawke's Bay","10 to 19",0.148125331023944
-"Hawke's Bay","20 to 29",0.234237756254093
-"Hawke's Bay","30 to 39",0.119905302411111
-"Hawke's Bay","40 to 49",0.152179281649798
-"Hawke's Bay","50 to 59",0.156939708659654
+"Auckland","0 to 9",0.233798421964457
+"Auckland","10 to 19",0.268214174714761
+"Auckland","20 to 29",0.298830049301487
+"Auckland","30 to 39",0.200271132047839
+"Auckland","40 to 49",0.246318615839938
+"Auckland","50 to 59",0.181790071788216
+"Auckland","60 to 69",0.209734566422214
+"Auckland","70+",0.192794432336326
+"Bay of Plenty","0 to 9",0.235629978706249
+"Bay of Plenty","10 to 19",0.282896334081953
+"Bay of Plenty","20 to 29",0.386619800814684
+"Bay of Plenty","30 to 39",0.281235403210422
+"Bay of Plenty","40 to 49",0.293288957622321
+"Bay of Plenty","50 to 59",0.241370059697498
+"Bay of Plenty","60 to 69",0.238004091613409
+"Bay of Plenty","70+",0.292789623847942
+"Canterbury/West Coast","0 to 9",0.355790701630893
+"Canterbury/West Coast","10 to 19",0.48801076100176
+"Canterbury/West Coast","20 to 29",0.483663245550285
+"Canterbury/West Coast","30 to 39",0.336274522935786
+"Canterbury/West Coast","40 to 49",0.3012397418651
+"Canterbury/West Coast","50 to 59",0.2409303153583
+"Canterbury/West Coast","60 to 69",0.248915140414667
+"Canterbury/West Coast","70+",0.240591906339711
+"Capital & Coast/Hutt","0 to 9",0.250975105813088
+"Capital & Coast/Hutt","10 to 19",0.277835821503551
+"Capital & Coast/Hutt","20 to 29",0.328284256120733
+"Capital & Coast/Hutt","30 to 39",0.259466035862795
+"Capital & Coast/Hutt","40 to 49",0.268739315619508
+"Capital & Coast/Hutt","50 to 59",0.237755618355182
+"Capital & Coast/Hutt","60 to 69",0.212868142555618
+"Capital & Coast/Hutt","70+",0.205994964924191
+"Counties Manukau","0 to 9",0.165042272513812
+"Counties Manukau","10 to 19",0.260284776905634
+"Counties Manukau","20 to 29",0.343736097110749
+"Counties Manukau","30 to 39",0.248858751429802
+"Counties Manukau","40 to 49",0.229541453099075
+"Counties Manukau","50 to 59",0.206877980619146
+"Counties Manukau","60 to 69",0.193553070609503
+"Counties Manukau","70+",0.241932045703572
+"Hawke's Bay","0 to 9",0.12710975553842
+"Hawke's Bay","10 to 19",0.129609664645951
+"Hawke's Bay","20 to 29",0.204013529640662
+"Hawke's Bay","30 to 39",0.128469966869047
+"Hawke's Bay","40 to 49",0.147270272564321
+"Hawke's Bay","50 to 59",0.164413028119637
 "Hawke's Bay","60 to 69",0.0814706530353188
-"Hawke's Bay","70+",0.107664607277106
-"Lakes","0 to 9",0.183005298128627
-"Lakes","10 to 19",0.184346308452979
-"Lakes","20 to 29",0.191042396274894
-"Lakes","30 to 39",0.301844627265402
-"Lakes","40 to 49",0.208632809484096
-"Lakes","50 to 59",0.183032479537665
-"Lakes","60 to 69",0.254253399874562
-"Lakes","70+",0.154049130731867
+"Hawke's Bay","70+",0.120087446578311
+"Lakes","0 to 9",0.114378311330392
+"Lakes","10 to 19",0.203751183026977
+"Lakes","20 to 29",0.250743145110799
+"Lakes","30 to 39",0.24696378594442
+"Lakes","40 to 49",0.23270582596303
+"Lakes","50 to 59",0.214589803595883
+"Lakes","60 to 69",0.215730157469325
+"Lakes","70+",0.223371239561207
 "MidCentral","0 to 9",0.256608863326111
-"MidCentral","10 to 19",0.457392027268038
-"MidCentral","20 to 29",0.552087337975185
-"MidCentral","30 to 39",0.383546075232339
-"MidCentral","40 to 49",0.571958053134445
+"MidCentral","10 to 19",0.403930621483462
+"MidCentral","20 to 29",0.521071195392309
+"MidCentral","30 to 39",0.40416683196526
+"MidCentral","40 to 49",0.475788114996795
 "MidCentral","50 to 59",0.326037850610315
-"MidCentral","60 to 69",0.372122821858982
-"MidCentral","70+",0.438052120279994
-"Nelson Marlborough","0 to 9",0.296959597379761
-"Nelson Marlborough","10 to 19",0.527151875186781
-"Nelson Marlborough","20 to 29",0.406992772216529
-"Nelson Marlborough","30 to 39",0.366739821152984
-"Nelson Marlborough","40 to 49",0.402092985955997
-"Nelson Marlborough","50 to 59",0.276596278408362
-"Nelson Marlborough","60 to 69",0.267793584869203
-"Nelson Marlborough","70+",0.281096277999137
-"Northland","0 to 9",0.234921802426306
-"Northland","10 to 19",0.438743506871796
-"Northland","20 to 29",0.386694959386777
+"MidCentral","60 to 69",0.345542620297626
+"MidCentral","70+",0.466183907820911
+"Nelson Marlborough","0 to 9",0.445439396069641
+"Nelson Marlborough","10 to 19",0.566491567364899
+"Nelson Marlborough","20 to 29",0.482712357745186
+"Nelson Marlborough","30 to 39",0.392566569121504
+"Nelson Marlborough","40 to 49",0.435141724527723
+"Nelson Marlborough","50 to 59",0.296074889563881
+"Nelson Marlborough","60 to 69",0.263330358454716
+"Nelson Marlborough","70+",0.27306495577059
+"Northland","0 to 9",0.21289788344884
+"Northland","10 to 19",0.375157491383129
+"Northland","20 to 29",0.429661065985308
 "Northland","30 to 39",0.302456533934128
-"Northland","40 to 49",0.309156957486375
-"Northland","50 to 59",0.167183050773858
-"Northland","60 to 69",0.17903005448555
-"Northland","70+",0.141511099283053
-"South Canterbury","0 to 9",0.243589917827091
-"South Canterbury","10 to 19",0.80475321255387
-"South Canterbury","20 to 29",0.734041665709792
-"South Canterbury","30 to 39",0.378608899323428
-"South Canterbury","40 to 49",0.473472936012175
-"South Canterbury","50 to 59",0.307124081500972
-"South Canterbury","60 to 69",0.294789909458323
-"South Canterbury","70+",0.396171813900301
+"Northland","40 to 49",0.348504206621005
+"Northland","50 to 59",0.182381509935118
+"Northland","60 to 69",0.215649838357594
+"Northland","70+",0.190029190465813
+"South Canterbury","0 to 9",0.341025884957927
+"South Canterbury","10 to 19",0.82438133968933
+"South Canterbury","20 to 29",0.511604797312885
+"South Canterbury","30 to 39",0.447446881018597
+"South Canterbury","40 to 49",0.417770237657801
+"South Canterbury","50 to 59",0.381578404289087
+"South Canterbury","60 to 69",0.273733487354157
+"South Canterbury","70+",0.313252131921168
 "Southern","0 to 9",0.361310617329947
-"Southern","10 to 19",0.450824393984098
-"Southern","20 to 29",0.512328925103296
-"Southern","30 to 39",0.346745623108863
-"Southern","40 to 49",0.403831696316473
-"Southern","50 to 59",0.289166539347442
-"Southern","60 to 69",0.213635773934264
-"Southern","70+",0.304763763605015
-"Tairawhiti","0 to 9",0.253859091623428
-"Tairawhiti","10 to 19",0.231964409050439
-"Tairawhiti","20 to 29",0.477086872571224
+"Southern","10 to 19",0.466698492363819
+"Southern","20 to 29",0.478173663429743
+"Southern","30 to 39",0.335853090445758
+"Southern","40 to 49",0.417918848513559
+"Southern","50 to 59",0.270979964545716
+"Southern","60 to 69",0.220175644564904
+"Southern","70+",0.322055324660619
+"Tairawhiti","0 to 9",0.230780992384935
+"Tairawhiti","10 to 19",0.193303674208699
+"Tairawhiti","20 to 29",0.301318024781825
 "Tairawhiti","30 to 39",0.129354863585111
-"Tairawhiti","40 to 49",0.209634242444852
-"Tairawhiti","50 to 59",0.320507660469542
-"Tairawhiti","60 to 69",0.189689391779266
-"Tairawhiti","70+",0.222493363160292
-"Taranaki","0 to 9",0.171997268158565
-"Taranaki","10 to 19",0.403284484259424
-"Taranaki","20 to 29",0.451149301680819
-"Taranaki","30 to 39",0.308131076748626
-"Taranaki","40 to 49",0.386591481508084
-"Taranaki","50 to 59",0.232410178762863
-"Taranaki","60 to 69",0.15508029608591
-"Taranaki","70+",0.115972625326587
-"Waikato","0 to 9",0.273907924681267
-"Waikato","10 to 19",0.28510511212113
-"Waikato","20 to 29",0.398379684985603
-"Waikato","30 to 39",0.355258329006583
-"Waikato","40 to 49",0.305005399182939
-"Waikato","50 to 59",0.217014787531228
-"Waikato","60 to 69",0.21446409099618
-"Waikato","70+",0.192874015221778
-"Wairarapa","0 to 9",0.262784182071793
-"Wairarapa","10 to 19",0.337951137790025
-"Wairarapa","20 to 29",0.588190474139599
-"Wairarapa","30 to 39",0.335221759560317
-"Wairarapa","40 to 49",0.39325230504929
-"Wairarapa","50 to 59",0.161190461539053
-"Wairarapa","60 to 69",0.231460211622169
-"Wairarapa","70+",0.228837318397634
-"Waitemata","0 to 9",0.267709892819213
-"Waitemata","10 to 19",0.572202036509916
-"Waitemata","20 to 29",0.435717530891245
-"Waitemata","30 to 39",0.212309994764717
-"Waitemata","40 to 49",0.284894132673622
-"Waitemata","50 to 59",0.211560196246678
-"Waitemata","60 to 69",0.230826389280477
-"Waitemata","70+",0.233769896122291
-"Whanganui","0 to 9",0.30250931725762
+"Tairawhiti","40 to 49",0.262042803056065
+"Tairawhiti","50 to 59",0.240380745352157
+"Tairawhiti","60 to 69",0.14226704383445
+"Tairawhiti","70+",0.188263614981786
+"Taranaki","0 to 9",0.182114754520834
+"Taranaki","10 to 19",0.478900325058066
+"Taranaki","20 to 29",0.518821696932942
+"Taranaki","30 to 39",0.32493822638946
+"Taranaki","40 to 49",0.418807438300425
+"Taranaki","50 to 59",0.252619759524852
+"Taranaki","60 to 69",0.196832683493655
+"Taranaki","70+",0.139167150391905
+"Waikato","0 to 9",0.297987742235664
+"Waikato","10 to 19",0.348744646076739
+"Waikato","20 to 29",0.501362188587324
+"Waikato","30 to 39",0.375367291025824
+"Waikato","40 to 49",0.355839632380096
+"Waikato","50 to 59",0.254607900331913
+"Waikato","60 to 69",0.222792793559139
+"Waikato","70+",0.184920447583767
+"Wairarapa","0 to 9",0.233585939619372
+"Wairarapa","10 to 19",0.434508605730033
+"Wairarapa","20 to 29",0.74297744101844
+"Wairarapa","30 to 39",0.351982847538333
+"Wairarapa","40 to 49",0.464752724149161
+"Wairarapa","50 to 59",0.223186792900227
+"Wairarapa","60 to 69",0.190614291924139
+"Wairarapa","70+",0.216793249008285
+"Waitemata","0 to 9",0.274347328178367
+"Waitemata","10 to 19",0.553128635292919
+"Waitemata","20 to 29",0.401424947441471
+"Waitemata","30 to 39",0.243379750096139
+"Waitemata","40 to 49",0.282350435060465
+"Waitemata","50 to 59",0.201485901187312
+"Waitemata","60 to 69",0.219683046349696
+"Waitemata","70+",0.245055339383367
+"Whanganui","0 to 9",0.262174741623271
 "Whanganui","10 to 19",0.570715055568897
-"Whanganui","20 to 29",0.708201523577151
-"Whanganui","30 to 39",0.528774686243185
-"Whanganui","40 to 49",0.748116250914737
-"Whanganui","50 to 59",0.516369582417089
-"Whanganui","60 to 69",0.466229590872741
-"Whanganui","70+",0.346806838429301
+"Whanganui","20 to 29",0.791519349880345
+"Whanganui","30 to 39",0.58886271877082
+"Whanganui","40 to 49",0.762503101893867
+"Whanganui","50 to 59",0.436928108199075
+"Whanganui","60 to 69",0.412016847748004
+"Whanganui","70+",0.397807844080669
